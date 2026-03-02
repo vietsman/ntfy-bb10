@@ -5,8 +5,7 @@ A native BlackBerry 10 client for **ntfy**, a simple and fast push notification 
 ## Features
 
 - **Receive Notifications**: Get instant push notifications from any ntfy topic.
-- **Native BB10 Experience**: Optimized and built specifically for the BlackBerry OS 10.
-- **Lightweight**: Built with the Cascades Framework for an authentic UI and optimal performance on BB10 devices.
+- **Authenticity**: Built with the Cascades Framework for an authentic UI and optimal performance on BB10 devices.
 
 ## Requirements
 
